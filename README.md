@@ -1,4 +1,4 @@
-# Temphue-cues-experimental-setup
+# Temphue cues experimental setup
 This repository is the experimental setup made in the frame of my Bachelor thesis, to test how thermal feedback can be provided in VR only using visual cues
 
 
