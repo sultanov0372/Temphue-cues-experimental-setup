@@ -1,0 +1,7 @@
+QuestionType,Question,QuestionID,Answer
+radio,When you touched the coffee mug , how cold or warm did it feel?,q1,6
+radio,How would you rate your thermal comfort during the last interaction with the object?,q1,5
+radio,I felt that my own hands could be affected by virtual hands,q1,5
+radio,I felt a thermal sensation in my body when I saw/touched the object,q2,5
+radio,I felt as if my hands had been in virtual environment,q3,6
+

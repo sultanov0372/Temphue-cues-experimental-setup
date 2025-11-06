@@ -1,0 +1,99 @@
+{
+   "qTitle":"Questionnaire",
+   "qInstructions":"Instructions: Please answer all questions by clicking a point on the scale that best represents your experience in the virtual environment (VE)",
+   "qId":"ISOcup",
+   "questions":[
+      {
+         "pId":"page_1",
+         "qType":"radio",
+         "qInstructions":"Please report only how the object's surface felt to your skin - do not rate how your overall body felt",
+         "qData":[
+            {
+               "qId":"q1",
+               "qText":"When you touched the coffee mug , how cold or warm did it feel?",
+               "qMandatory":"true",
+               "qOptions":[
+                  "Cold",
+                  "Cool",
+                  "Slightly cool",
+                  "Neutral",
+                  "Slightly warm",
+                  "Warm",
+                  "Hot"
+               ]
+            }
+         ]
+      },
+      {
+         "pId":"page_2",
+         "qType":"radio",
+         "qInstructions":"Consider how warm or cold you felt - not just physically, but how comfortable or uncomfortable that sensation was",
+         "qData":[
+            {
+               "qId":"q1",
+               "qText":"How would you rate your thermal comfort during the last interaction with the object?",
+               "qMandatory":"true",
+               "qOptions":[
+                  "Much too cool",
+                  "Too cool",
+                  "Comfortably cool",
+                  "Comfortable",
+                  "Comfortably warm",
+                  "Too warm",
+                  "Much too warm"
+               ]
+            }
+         ]
+      },
+      {
+         "pId":"page_3",
+         "qType":"radio",
+         "qInstructions":"Choose one option for each question",
+         "qData":[
+            {
+               "qId":"q1",
+               "qText":"I felt that my own hands could be affected by virtual hands",
+               "qMandatory":"true",
+               "qOptions":[
+                  "Strongly Disagree",
+                  "Disagree",
+                  "Somewhat disagree",
+                  "Neither agree or disagree",
+                  "Somewhat agree",
+                  "Agree",
+                  "Strongly Agree",
+               ]
+            },
+            {
+               "qId":"q2",
+               "qText":"I felt a thermal sensation in my body when I saw/touched the object",
+               "qMandatory":"true",
+               "qOptions":[
+                  "Strongly Disagree",
+                  "Disagree",
+                  "Somewhat disagree",
+                  "Neither agree or disagree",
+                  "Somewhat agree",
+                  "Agree",
+                  "Strongly Agree",
+               ]
+            },
+            {
+               "qId":"q3",
+               "qText":"I felt as if my hands had been in virtual environment",
+               "qMandatory":"true",
+               "qOptions":[
+                  "Strongly Disagree",
+                  "Disagree",
+                  "Somewhat disagree",
+                  "Neither agree or disagree",
+                  "Somewhat agree",
+                  "Agree",
+                  "Strongly Agree",
+               ]
+            }
+         ]
+      }
+   ]
+   "qMessage":"You have completed the questionnaire"
+}

@@ -1,0 +1,91 @@
+{
+   "qTitle":"ASHRAE Questionnaire",
+   "qInstructions":"Instructions: Please answer all questions by clicking a point on the scale that best represents your experience in the virtual environment (VE)",
+   "qId":"IPQ",
+   "questions":[
+      {
+         "pId":"page_1",
+         "qType":"radio",
+         "qInstructions":"Please report only how the object's surface felt to your skin - do not rate how your overall body felt",
+         "qData":[
+            {
+               "qId":"q1",
+               "qText":"When you touched the soda can, how cold or warm did it feel?",
+               "qMandatory":"true",
+               "qOptions":[
+                  "Cold",
+                  "Cool",
+                  "Slightly cool",
+                  "Neutral",
+                  "Slightly warm",
+                  "Warm",
+                  "Hot"
+               ]
+            },
+            {
+               "qId":"q2",
+               "qText":"When you reached for the soda can, how cold or warm did the inside of the fridge feel?",
+               "qMandatory":"true",
+               "qOptions":[
+                  "Cold",
+                  "Cool",
+                  "Slightly cool",
+                  "Neutral",
+                  "Slightly warm",
+                  "Warm",
+                  "Hot"
+               ]
+            },
+            {
+               "qId":"q3",
+               "qText":"When you touched the coffee mug , how cold or warm did it feel?",
+               "qMandatory":"true",
+               "qOptions":[
+                  "Cold",
+                  "Cool",
+                  "Slightly cool",
+                  "Neutral",
+                  "Slightly warm",
+                  "Warm",
+                  "Hot"
+               ]
+            }
+         ]
+      },
+      {
+         "pId":"page2",
+        "qType":"radio",
+         "qInstructions":"Please report only how the object's surface felt to your skin - do not rate how your overall body felt",
+         "qData":[
+            {
+               "qId":"q4",
+               "qText":"When you held your hand above the torch, how cold or warm did it feel?",
+               "qMandatory":"true",
+               "qOptions":[
+                  "Cold",
+                  "Cool",
+                  "Slightly cool",
+                  "Neutral",
+                  "Slightly warm",
+                  "Warm",
+                  "Hot"
+               ]
+            },
+            {
+               "qId":"q5",
+               "qText":"When you shook avatars hand, how cold or warm did it feel?",
+               "qMandatory":"true",
+               "qOptions":[
+                  "Cold",
+                  "Cool",
+                  "Slightly cool",
+                  "Neutral",
+                  "Slightly warm",
+                  "Warm",
+                  "Hot"
+               ]
+            }
+         ]
+      }
+   ]
+}
