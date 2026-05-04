@@ -1,6 +1,9 @@
 # Temphue cues experimental setup
 This repository is the experimental setup made in the frame of my Bachelor thesis, to test how thermal feedback can be provided in VR only using visual cues
 
+<img width="810" height="540" alt="cover_ice-torch" src="https://github.com/user-attachments/assets/94511adb-f08a-4d46-8bc4-fb8aa5001342" />
+
+
 
 ## Setup & Instructions
  
