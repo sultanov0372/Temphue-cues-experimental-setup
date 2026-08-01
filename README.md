@@ -1,8 +1,7 @@
 # Temphue cues experimental setup
 This repository is the experimental setup made in the frame of my Bachelor thesis, to test how thermal feedback can be provided in VR only using visual cues
 
-<img width="810" height="540" alt="cover_ice-torch" src="https://github.com/user-attachments/assets/94511adb-f08a-4d46-8bc4-fb8aa5001342" />
-
+https://github.com/user-attachments/assets/609171ac-2063-4449-b1ea-0c30a40a1a71
 
 
 ## Setup & Instructions
@@ -39,6 +38,7 @@ Scenes/Important/
 * `HS_HandColor` – Social interaction with in-hand visualisation
 
 ---
+
 
 ## Controls
 
@@ -78,6 +78,10 @@ Scenes/Important/
 
 * The button press works only if you are colliding with the object or the avatar with the other hand at the moment. It will write down the time before the press in the console and the questionnaire will appear.
 ---
+
+<p align="center">
+ <img width="810" height="540" alt="cover_ice-torch" src="https://github.com/user-attachments/assets/94511adb-f08a-4d46-8bc4-fb8aa5001342" />
+</p>
 
 ## Contact
 
